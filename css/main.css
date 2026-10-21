@@ -1319,27 +1319,3 @@ body {
   -webkit-animation-play-state: paused !important;
           animation-play-state: paused !important;
 }/*# sourceMappingURL=main.css.map */
-
-
-
-/* BUNGA KE-4 */
-.flower--4 {
-  left: 20%;
-  transform: rotate(-10deg);
-  animation: moving-flower-1 4s linear infinite;
-}
-
-.flower__leafs--4 {
-  animation-delay: 2s;
-}
-
-/* BUNGA KE-5 */
-.flower--5 {
-  left: 80%;
-  transform: rotate(15deg);
-  animation: moving-flower-2 4s linear infinite;
-}
-
-.flower__leafs--5 {
-  animation-delay: 2.3s;
-}
